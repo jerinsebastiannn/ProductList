@@ -21,22 +21,11 @@ A React application for viewing products with **search**, **category filtering**
 - Mock JSON data
 
 
-## Project Structure
+## Live Demo 
 
 
-product-list/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── Navbar.js
-│   │   ├── Filters.js
-│   │   ├── ProductList.js
-│   │   └── ProductCard.js
-│   ├── data/
-│   │   └── products.js
-│   ├── App.js
-│   ├── App.css
-│   └── index.js
-├── screenshots/     ← Add your screenshots here
-└── README.md
+
+[Click here to view live project](https://productlistingappp.netlify.app/)
+
+
 
