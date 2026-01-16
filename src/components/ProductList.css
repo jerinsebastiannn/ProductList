@@ -1,0 +1,11 @@
+.product-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.no-results {
+  text-align: center;
+  padding: 2rem 0;
+  color: #6b7280;
+}
